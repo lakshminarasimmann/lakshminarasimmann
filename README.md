@@ -13,7 +13,6 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE (AI & ML) @ SRM IST  
-- 📊 BS in Data Science @ IIT Patna  
 - 🤖 Focused on Deep Learning, NLP & Computer Vision  
 - ⚙️ Building scalable backend + real-time processing systems  
 - 📡 Exploring AI in Wireless Communication & Signal Systems  
